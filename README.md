@@ -57,4 +57,4 @@ We list some strong baselines here.
     </tbody>
 </table>
 
-Please refer to [this paper](https://arxiv.org/pdf/1705.03281.pdf) for deepSBD and [our paper](https://arxiv.org/pdf/1808.04234.pdf) for DSM. We also release the baseline codes [here](https://github.com/Tangshitao/ClipShots_basline).
+Please refer to [this paper](https://arxiv.org/pdf/1705.03281.pdf) for deepSBD and [our paper](https://arxiv.org/pdf/1808.04234.pdf) for DSM. We also release the baseline codes [here](https://github.com/Tangshitao/ClipShots_basline). Please email shitaot@gmail.com if you have any questions.
