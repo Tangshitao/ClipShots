@@ -45,7 +45,7 @@ def eval(predict_path,gt_path):
             
             cut_correct=get_union_cnt(gt_cuts,predicts_cut)
             gradual_correct=get_union_cnt(gt_graduals,predicts_gradual)
-            all_correct=get_union_cnt(predicts_cut+predicts_gradual,_gts)
+            all_correct=get_union_cnt(_gts,predicts_cut+predicts_gradual)
 
             cut_correct_sum+=cut_correct
             gradual_correct_sum+=gradual_correct
